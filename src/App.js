@@ -17,6 +17,8 @@ const App=()=>{
       <TodoItem text="Play"/>
       <TodoItem text="Study"/>
       <TodoItem text="Sleep Again"/>
+      <TodoItem text="Sleep and again"/>
+
       <Button/>
       </div>
   );
